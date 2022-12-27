@@ -1,2 +1,0 @@
-# testrepo
-Coursera exercise
